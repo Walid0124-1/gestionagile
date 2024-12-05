@@ -1,9 +1,32 @@
-h1{
+.premierh1{
     color: blue;
     text-align: center;
 }
 
-span{
+.deuxiemeh2{
     color: yellow;
-    font-size: 25px;
+    text-align: center;
+}
+
+.premierspan{
+    font-size: 50px;
+}
+
+.deuxiemespan{
+    font-size: 100px;
+}
+
+.premierdiv{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+.deuxiemediv{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin-top: 50px;
 }
